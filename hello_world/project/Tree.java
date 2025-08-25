@@ -1,3 +1,5 @@
+package hello_world.project;
+
 public class Tree {
     public static void main(String[] args) {
         /* We're going to introduce ourselves

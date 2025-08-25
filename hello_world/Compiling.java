@@ -1,3 +1,5 @@
+package hello_world;
+
 public class Compiling {
     public static void main(String[] args) {
 
